@@ -27,4 +27,4 @@ quantitative models and metrics.
 The design process focused on modularity and a high level of user control. Modularity allows for easy 
 reconfiguration of the model to generate diverse insights. User control allows manual adjustment of the scores 
 to reflect team philosophies and trust in each scouting source. This allows for the scores to reflect the genuine 
-sentiment of the scouting process by valuing the knowledge and expertise of scouts
+sentiment of the scouting process by valuing the knowledge and expertise of scouts.
